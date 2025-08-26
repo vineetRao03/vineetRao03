@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Vineet Rao  
 
-<!--
-**vineetRao03/vineetRao03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **QA Automation Engineer (SDET)** with 3+ years of experience in manual & automation testing.  
+Passionate about building robust test frameworks, ensuring product quality, and constantly learning new tools.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+- 💻 Hands-on with **Java, Selenium WebDriver, TestNG, Postman, Rest Assured**
+- 🏦 Banking domain expertise: **Temenos T24 (Cards & Loan Management Systems)**
+- ☁️ Basic exposure to **AWS EC2, Docker, CI/CD pipelines**
+- 📊 Familiar with **Performance testing (JMeter)** and API validations
+- 📈 Improved regression efficiency by **35%** and sprint test rate by **60%** in projects
+
+---
+
+## 🔧 Tech Stack
+- **Languages:** Java  
+- **Automation Tools:** Selenium WebDriver, TestNG, Rest Assured, Postman, Newman CLI, Chai.js  
+- **Frameworks & Tools:** Cucumber (BDD), Maven, Jenkins, GitHub Actions, JIRA, HP ALM, LambdaTest, Karate
+- **Databases:** MySQL  
+- **Cloud/DevOps:** AWS EC2, Docker (basic)  
+- **Performance Testing:** JMeter (basic)  
+
+---
+
+## 🏆 Highlights
+- 🏅 3+ years at **Cognizant** as QA Engineer  
+- 🚀 Delivered automation solutions that boosted regression coverage by **30–40%**  
+- ✅ Experienced in **Agile/Scrum** environment with continuous delivery  
+
+---
+
+## 📫 Let's Connect
+- 📧 Email: [vineetrao0309@gmail.com](mailto:vineetrao0309@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/vineetrao03](https://linkedin.com/in/vineetrao03)  
+- 🐙 GitHub: [github.com/vineetRao03](https://github.com/vineetRao03)  
+
+---
+⭐️ _“As a Tester, We don’t break software… We just make it confess its bugs.”_  
+🧪 _“Without testers, developers would think they’re perfect.”_
+
