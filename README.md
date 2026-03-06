@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vineet Rao  
 
-🚀 **QA Automation Engineer (SDET)** with 3+ years of experience in manual & automation testing.  
+🚀 **SDET** with  3.5 years of experience in end-to-end testing and automation across web and API. 
 Passionate about building robust test frameworks, ensuring product quality, and constantly learning new tools.  
 
 ---
@@ -10,7 +10,6 @@ Passionate about building robust test frameworks, ensuring product quality, and 
 - 🏦 Banking domain expertise: **Temenos T24 (Cards & Loan Management Systems)**
 - ☁️ Basic exposure to **AWS EC2, Docker, CI/CD pipelines**
 - 📊 Familiar with **Performance testing (JMeter)** and API validations
-- 📈 Improved regression efficiency by **35%** and sprint test rate by **60%** in projects
 
 ---
 
@@ -25,9 +24,10 @@ Passionate about building robust test frameworks, ensuring product quality, and 
 ---
 
 ## 🏆 Highlights
-- 🏅 3+ years at **Cognizant** as QA Engineer  
+- 🏅 3+ years at **Cognizant** as QA Engineer
 - 🚀 Delivered automation solutions that boosted regression coverage by **30–40%**  
-- ✅ Experienced in **Agile/Scrum** environment with continuous delivery  
+- ✅ Experienced in **Agile/Scrum** environment with continuous delivery
+- Currently working at Maverick Systems as a Senior Test Engineer.
 
 ---
 
