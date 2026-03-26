@@ -6,7 +6,7 @@ Passionate about building robust test frameworks, ensuring product quality, and 
 ---
 
 ## 🧑‍💻 About Me
-- 💻 Hands-on with **Java, Selenium WebDriver, TestNG, Postman, Rest Assured**
+- 💻 Hands-on with **Java, Selenium WebDriver, TestNG, Postman, Rest Assured, Playwright with TypeScript**
 - 🏦 Banking domain expertise: **Temenos T24 (Cards & Loan Management Systems)**
 - ☁️ Basic exposure to **AWS EC2, Docker, CI/CD pipelines**
 - 📊 Familiar with **Performance testing (JMeter)** and API validations
@@ -14,8 +14,8 @@ Passionate about building robust test frameworks, ensuring product quality, and 
 ---
 
 ## 🔧 Tech Stack
-- **Languages:** Java  
-- **Automation Tools:** Selenium WebDriver, TestNG, Rest Assured, Postman, Newman CLI, Chai.js  
+- **Languages:** Java. TypeScript, JavaScript  
+- **Automation Tools:** Selenium WebDriver, TestNG, Rest Assured, Postman, Newman CLI, Chai.js, Playwright
 - **Frameworks & Tools:** Cucumber (BDD), Maven, Jenkins, GitHub Actions, JIRA, HP ALM, LambdaTest, Karate
 - **Databases:** MySQL  
 - **Cloud/DevOps:** AWS EC2, Docker (basic)  
